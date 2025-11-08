@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="AnanyaxMusic/assets/AnanyaxMusic.png" alt="AnanyaxMusic Bot Logo" width="500px">
+  <img src="https://files.catbox.moe/4mf3tt.jpg" alt="AnanyaxMusic Bot Logo" width="500px">
 </p>
 
 <h1 align="center">🎵 AnanyaxMusic Bot 🎵</h1>
